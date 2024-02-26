@@ -16,7 +16,7 @@
 
 `@pip install toilet`
 
-`@git clone https://github.com/D4rk-B0y/Auto_Share.git`
+`@git clone https://github.com/stevenjoereyes/Facebook-Spam-share.git`
 
 `@cd Auto_Share`
 
